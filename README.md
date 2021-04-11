@@ -70,7 +70,32 @@ AHORA AMIGOS. podemos ejecutar una nueva clase para saber como era la verdadera 
 Muchas gracias! espero disfruten el proyecto
 
 
+RETROSPECTIVA
 
+1. ¿Cuál fue el tiempo total invertido en el proyecto por cada uno de ustedes? (Horas/
+Hombre)
+
+100 Horas para todo el proyecto 
+
+2. ¿Cuál es el estado actual del proyecto? ¿Por qué? (Para cada método incluya su
+estado)
+
+Faltaron dos metodos de ciclo 4
+
+3. Considerando las prácticas XP del laboratorio de hoy ¿por qué consideran que son
+importante?
+
+Programming pair, debido a que el proyecto se hizo siguiendo el estandar de codificacion a pa
+
+4. ¿Cuál consideran fue su mayor logro? ¿Por qué? ¿Cuál consideran que fue su mayor
+problema? ¿Qué hicieron para resolverlo?
+
+Mayor logro fue que todo funcionara, entre esos la parte de missionContest
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los
+resultados? 
+
+Trabajamos organizados de tal forma que no tuvimos que hacer muchas refactorizaciones de codigo.
 
 
 
