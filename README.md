@@ -36,6 +36,40 @@ El resultado sera:
 
 ![image](https://user-images.githubusercontent.com/59974540/114289841-b3cbe280-9a40-11eb-8f95-0df07f61125d.png)
 
+8. Luego ejecutamos el metodo Store para devolver una caja a la bodega
+
+![image](https://user-images.githubusercontent.com/59974540/114289906-17561000-9a41-11eb-8dc6-3b896fb8719d.png)
+
+El resultado sera:
+
+![image](https://user-images.githubusercontent.com/59974540/114289912-2210a500-9a41-11eb-9b2a-894f475f1c13.png)
+
+9. podemos dar zoom a las cajas 
+
+![image](https://user-images.githubusercontent.com/59974540/114289931-4a000880-9a41-11eb-8d56-8d2222421a82.png)
+
+El Resultado sera:
+
+![image](https://user-images.githubusercontent.com/59974540/114289979-9c412980-9a41-11eb-9f2c-bf8697dbb47e.png)
+
+10. Al ejecutar Stolen se mostrara cuantas cajas se han robado:
+
+![image](https://user-images.githubusercontent.com/59974540/114289997-c1359c80-9a41-11eb-921f-112a2b9665bb.png)
+
+11. Ejecutamos Finish para terminar el juego
+
+AHORA AMIGOS. podemos ejecutar una nueva clase para saber como era la verdadera solucion
+
+![image](https://user-images.githubusercontent.com/59974540/114290032-107bcd00-9a42-11eb-9704-5a1afe4382e1.png)
+
+![image](https://user-images.githubusercontent.com/59974540/114290041-2db09b80-9a42-11eb-8d09-2f5a1977d7e4.png)
+
+![image](https://user-images.githubusercontent.com/59974540/114290046-49b43d00-9a42-11eb-8e93-659843d70ff4.png)
+
+
+Muchas gracias! espero disfruten el proyecto
+
+
 
 
 
