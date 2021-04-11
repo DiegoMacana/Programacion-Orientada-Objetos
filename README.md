@@ -21,5 +21,23 @@ PRUEBAS DE ACEPTACION:
 
 ![image](https://user-images.githubusercontent.com/59974540/114289700-9e09ed80-9a3f-11eb-9ae8-6912233cf018.png)
 
+5. al ejecutar el metodo Ok nos retornara True si la accion anterior se pudo ejecutar o False si la accion fallo
+
+![image](https://user-images.githubusercontent.com/59974540/114289739-ce518c00-9a3f-11eb-989f-1a6b18633c0d.png)
+
+6. Al ejecutar Redo la accion que alguna vez devolvimos vuelve a ejecutarse
+
+![image](https://user-images.githubusercontent.com/59974540/114289755-f640ef80-9a3f-11eb-855d-173ce7ea436c.png)
+
+7. robamos la posicion fila:1 columna:2 y dejamos una caja para que no se altere la vista top 
+![image](https://user-images.githubusercontent.com/59974540/114289826-9eef4f00-9a40-11eb-8e7a-831b8341fe39.png)
+
+El resultado sera: 
+
+![image](https://user-images.githubusercontent.com/59974540/114289841-b3cbe280-9a40-11eb-8f95-0df07f61125d.png)
+
+
+
+
 
 
