@@ -14,3 +14,12 @@ PRUEBAS DE ACEPTACION:
 
 ![image](https://user-images.githubusercontent.com/59974540/114289596-de1ca080-9a3e-11eb-9bb8-b33a3b88ceae.png)
 
+3. Al ejecutar layaout o warehouse lo que nos mostrara son las mismas cajas y su representacion en una matriz
+![2](https://user-images.githubusercontent.com/59974540/114289663-6a2ec800-9a3f-11eb-8f11-8bb8d474180a.png)
+
+4. Al ejecutar Undo nos devuelve una accion, entonces como la ultima accion fue copiar las cajas, pues ahora el ladron no tendra estas cajas
+
+![image](https://user-images.githubusercontent.com/59974540/114289700-9e09ed80-9a3f-11eb-9ae8-6912233cf018.png)
+
+
+
